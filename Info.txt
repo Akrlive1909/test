@@ -1,1 +1,2 @@
-Name Ð SamRegistration n0: 001
+Name Ð SamRegistration n0: 001
+Address: 221B Baker street
